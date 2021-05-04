@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aleksej-rodionov
 - 👀 I’m interested in creativity, mobile development
-- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on mobile apps
 - 📫 How to reach me: @lessej (telegram)
 
