@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleksej-rodionov
 - 👀 I’m interested in creativity, mobile development
-- 💞️ I’m looking for collaboration on mobile apps
+- 💞️ I’m looking for collaboration on mobile development
 - 📫 How to reach me: @lessej (telegram)
 
 <!---
