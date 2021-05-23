@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aleksej-rodionov
 - 👀 I’m interested in creativity, mobile development
 - 💞️ I’m looking for collaboration on mobile development
-- 📫 How to reach me: @lessej (telegram)
+- 📫 How to reach me: @lessej (telegram) @chugo_jogurt (instagram)
 
 <!---
 aleksej-rodionov/aleksej-rodionov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
